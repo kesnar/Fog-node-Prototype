@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TaskHost</string>
+    <string name="edit_message">Enter Broker ip</string>
+    <string name="button_ok">Ok</string>
+</resources>
